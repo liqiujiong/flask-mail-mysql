@@ -3,9 +3,23 @@
 #### 介绍
 python falsk+react 的增C，查R逻辑、包含前后端
 
-#### 软件架构
-软件架构说明
+ui——前端页面
 
+server——后端服务
+
+#### 实现功能
+
+使⽤的任意python web开发框架，编写服务，实现注册及登陆，并实现⼀个表格⻚⾯查询⼈员
+数据，mysql
+（测试数据可以使⽤python模块Faker模块⽣成样例数据）
+必要的数据字段：（省，市，地区，姓名，性别，年龄， ⼿机号码）
+
+1. 使⽤邮箱注册接⼝，验证码登陆
+2. 实现 JWT Token 认证。
+3. ⽤户分为超级管理员，省份管理员，和市管理员，分别可以查询所有省份数据，省内内数
+据，及归属的市区数据
+4. ⻚⾯数据通过接⼝（需认证）获取，并提供后端查询
+5. 可以根据各字段进⾏条件查询
 
 #### 安装教程
 
@@ -18,20 +32,3 @@ python falsk+react 的增C，查R逻辑、包含前后端
 1.  xxxx
 2.  xxxx
 3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
