@@ -1,7 +1,7 @@
 # interview-flask-mail-cr
 
 #### 介绍
-python falsk+react 的增C，查R逻辑、包含前后端
+python flask+react 的增C，查R逻辑、包含前后端
 
 ui——前端页面
 
@@ -20,15 +20,3 @@ server——后端服务
 据，及归属的市区数据
 4. ⻚⾯数据通过接⼝（需认证）获取，并提供后端查询
 5. 可以根据各字段进⾏条件查询
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
