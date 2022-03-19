@@ -1,9 +1,7 @@
-# interview-flask-mail-cr
+# flask-mail-cr
 
 #### 介绍
-python flask+react 的增C，查R逻辑、包含前后端
-
-ui——前端页面
+python flask 的增C，查R逻辑、仅后端
 
 server——后端服务
 
